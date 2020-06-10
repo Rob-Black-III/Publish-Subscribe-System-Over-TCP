@@ -1,0 +1,2 @@
+EventManager.java - runs a listen server, caches, etc.
+PubSubAgent.java - "Client" - gets messages, subscribes, etc
